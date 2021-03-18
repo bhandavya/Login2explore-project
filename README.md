@@ -32,7 +32,7 @@ The project is based on a web form which accepts data from user and uploads the 
 ![output](https://user-images.githubusercontent.com/44464820/111587152-d2dfa780-87e7-11eb-897a-fb929488d49d.JPG)
 ![database](https://user-images.githubusercontent.com/44464820/111587165-d70bc500-87e7-11eb-8bad-80e6d0029c60.JPG)
 
-*Data Instances :* ![JsonPowerDB Interface](https://github.com/BeAgarwal/JsonPowerDB/raw/master/Assets/Screenshots/Server.PNG)
+*Data Instances :* 
 
 *Operations performed :*
 All CRUD operations can be performed
